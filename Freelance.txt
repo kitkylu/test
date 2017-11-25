@@ -1,0 +1,81 @@
+Make business cards.
+face book page.
+times of malta.
+Consider prices
+
+WEB SITE
+
+database design [ERD, relationships, constraints]
+template design [styling, images and graphics, positioning, colors, header, footer, body, fonts]
+image editing
+content writing
+responsiveness
+jquery plugins
+javascript [event handlers, AJAX, animations and effects]
+security [SQL injection, XSS injection, input/output filtering, white and black listing,
+encryption and hashing, clickjacking, form spoofing, file access and directory listing]
+
+===========================
+STANDARD PAGES
+
+home
+about us
+contact us
+privacy policy
+terms and conditions
+
+===========================
+
+COMPONENTS
+
+social media buttons
+tabs
+menus
+login forms
+registration forms
+google maps
+audios
+videos
+pagination
+image gallery
+calendars
+logo
+data tables
+blogs
+shopping cart [make class in framework]
+
+
+PROCESSES
+
+file management
+form validation processes
+login processes
+subscription process
+error handling and debugging
+email processes
+database management [queries]
+XML and DOM manipulation
+regex patterns
+sessions and cookies
+search engines
+paypal payment systems
+
+
+================
+
+SERVER
+
+.htacces file
+display errors off
+php.ini and server directives
+
+================
+
+
+=================
+
+ADMIN PANEL
+
+================
+
+HOSTING
